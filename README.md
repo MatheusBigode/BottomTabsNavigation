@@ -13,3 +13,5 @@ COMO INSTALAR A APLICAÇÃO
 6 - Ao entrar no editor, crie um novo terminal e rode o comando "npm i".
 
 7 - Finalmente, para abrir a aplicação, digite "npx expo start --tunnel".
+
+8 - Agora, basta ler o QR code para rodar no seu dispositivo ou apertar a tecla "w" para rodar na web.
